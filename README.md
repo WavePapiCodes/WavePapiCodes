@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WavePapiCodes
+- 👋 Hi, I’m Ken! @WavePapiCodes
 - 👀 I’m interested in Front-End Web Development 
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me @keanuseangomez@gmail.com
+- 📫 How to reach me by via email: keanuseangomez@gmail.com
 
 <!---
 WavePapiCodes/WavePapiCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
